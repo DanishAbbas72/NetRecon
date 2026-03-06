@@ -133,7 +133,7 @@ python netrecon.py --help
 ```bash
 git clone https://github.com/DanishAbbas72/netrecon.git
 cd netrecon
-python netrecon.py -t scanme.nmap.org --top
+python netrecon.py -t target.com --top
 ```
 
 ---
@@ -142,7 +142,7 @@ python netrecon.py -t scanme.nmap.org --top
 
 ```bash
 # Scan top 120 common ports
-python netrecon.py -t scanme.nmap.org --top
+python netrecon.py -t target.com --top
 
 # Scan specific ports
 python netrecon.py -t 192.168.1.1 -p 22,80,443
