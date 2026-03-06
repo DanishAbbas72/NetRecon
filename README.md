@@ -540,7 +540,7 @@ sudo python netrecon.py -t target.com --top --fin-scan
 |---|---|
 | **GitHub** | [github.com/DanishAbbas72](https://github.com/DanishAbbas72) |
 | **LinkedIn** | [linkedin.com/in/danish-abbas-132411216](https://linkedin.com/in/danish-abbas-132411216) |
-| **Email** | danish.abbas.infosec@gmail.com |
+| **Email** | daniibangash72@gmail.com |
 | **Bug Bounty** | YesWeHack · Bugcrowd |
 | **Security Research** | [github.com/DanishAbbas72/security-research](https://github.com/DanishAbbas72/security-research) |
 
