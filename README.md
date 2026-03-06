@@ -84,7 +84,8 @@ NetRecon also implements **7 firewall bypass techniques** including FIN/NULL/XMA
 
 ### Specific Port Scan — Service Detection & Banner Grabbing
 
-![NetRecon Specific Port Scan](screenshots/screenshot1.png)
+![NetRecon Specific Port Scan](![screenshot1](https://github.com/user-attachments/assets/c5f4c051-5337-4c4a-87a8-a68389cf1ab2)
+)
 
 *Scanning ports 22, 80, 443 on scanme.nmap.org — SSH and HTTP detected with Apache/2.4.7 version fingerprinting and live HTTP banner grab*
 
