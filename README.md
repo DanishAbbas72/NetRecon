@@ -233,7 +233,7 @@ usage: netrecon [-h] -t TARGET [-p PORTS | --top | --full]
 
 ```bash
 # Scan a hostname — top common ports
-python netrecon.py -t scanme.nmap.org --top
+python netrecon.py -t target.com --top
 
 # Scan an IP address
 python netrecon.py -t 192.168.1.1 --top
