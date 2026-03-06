@@ -10,14 +10,14 @@
  ██║╚██╗██║██╔══╝     ██║   ██╔══██╗██╔══╝  ██║     ██║   ██║██║╚██╗██║
  ██║ ╚████║███████╗   ██║   ██║  ██║███████╗╚██████╗╚██████╔╝██║ ╚████║
  ╚═╝  ╚═══╝╚══════╝   ╚═╝   ╚═╝  ╚═╝╚══════╝ ╚═════╝ ╚═════╝ ╚═╝  ╚═══╝
-               Port Scanner & Service Fingerprinter v1.1
+               Port Scanner & Service Fingerprinter v2.1
 ```
 
 ![Python](https://img.shields.io/badge/Python-3.6%2B-blue?style=for-the-badge&logo=python)
 ![Platform](https://img.shields.io/badge/Platform-Linux%20%7C%20Kali-green?style=for-the-badge&logo=linux)
 ![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
 ![Dependencies](https://img.shields.io/badge/Dependencies-Zero-brightgreen?style=for-the-badge)
-![Version](https://img.shields.io/badge/Version-1.1.0-red?style=for-the-badge)
+![Version](https://img.shields.io/badge/Version-2.1.0-red?style=for-the-badge)
 
 **Author: Danish Abbas | [github.com/DanishAbbas72](https://github.com/DanishAbbas72)**
 
@@ -84,8 +84,7 @@ NetRecon also implements **7 firewall bypass techniques** including FIN/NULL/XMA
 
 ### Specific Port Scan — Service Detection & Banner Grabbing
 
-![NetRecon Specific Port Scan](![screenshot1](https://github.com/user-attachments/assets/c5f4c051-5337-4c4a-87a8-a68389cf1ab2)
-)
+![NetRecon Specific Port Scan](screenshots/screenshot1.png)
 
 *Scanning ports 22, 80, 443 on scanme.nmap.org — SSH and HTTP detected with Apache/2.4.7 version fingerprinting and live HTTP banner grab*
 
